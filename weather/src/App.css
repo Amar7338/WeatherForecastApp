@@ -1,0 +1,27 @@
+.container{
+  width:80vh;
+  height:60vh;
+  margin: auto;
+  margin-top: 80px;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://images.theconversation.com/files/232705/original/file-20180820-30593-1nxanpj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.OuterText input{
+  width:40%;
+  Height:50px;
+}
+.OuterBox{
+  width:80vh;
+  height:70%;
+  margin: auto;
+  padding: 0;
+  display: flex;
+}
+.Innerbox{
+  justify-content: space-around;
+  width: 40%;
+  height:40vh;
+  margin:5px;
+  padding:3px;
+}
